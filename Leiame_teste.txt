@@ -1,0 +1,14 @@
+Leiame_teste.txt
+
+teste de commind do git
+
+
+fatal: Ocorreu um erro ao enviar a solicitação.
+fatal: a solicitação foi abortada: não foi possível criar um canal seguro SSL / TLS.
+remoto: o suporte para autenticação de senha foi removido em 13 de agosto de 2021. Use um token de acesso pessoal.
+remoto: consulte 
+
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ 
+
+para obter mais informações.
+fatal: Falha na autenticação de 'https://github.com/joseraliaga/kotlin-spring-demo-01.git/' 
