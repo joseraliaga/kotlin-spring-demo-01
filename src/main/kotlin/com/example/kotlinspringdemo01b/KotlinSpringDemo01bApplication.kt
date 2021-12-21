@@ -21,13 +21,13 @@ class OlaMundoController { //Controller; identifica o tipo de classe
 //	@GetMapping("Ola")
 	@GetMapping
 	fun Ola(): String {
-		return "Olá Mundo Sampa!"
+		return "Olá Mundo Sampa - Definitivo!"
 	}
 
 //	@GetMapping("Ola/2")
 	@GetMapping("2")
 	fun Ola2():String {
-		return "Olá Mundão do sertão!"
+		return "Olá Mundão do sertão! - Final"
 	}
 }
 enum class Especie { CACHORRO, GATO, PASSARO }
